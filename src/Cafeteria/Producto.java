@@ -19,6 +19,7 @@ public class Producto {
         System.out.println("Informacion del producto: ");
         System.out.println("Nombre producto: "+ nombre);
         System.out.println("Precio: "+ precio);
+        System.out.println("Unidades vendidas: "+ vendida);
     }
 
     void marcarVendido() {
